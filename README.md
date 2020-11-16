@@ -1,2 +1,2 @@
 # ListView-in-Android
-Easy explain of listview in Android.
+Easy explaining of listview in Android.
